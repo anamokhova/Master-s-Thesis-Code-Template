@@ -22,6 +22,15 @@ These methods support theoretical findings presented in the corresponding Master
 - `Master's Thesis_Code template.ipynb`:  
   Jupyter notebook containing the full implementation, utility functions, and examples.
 
+- `upper bound function_quadrature_comparison.ipynb`  
+  Computes and visualizes theoretical error bounds for each quadrature method for the upper bound function of  $\psi_\nu$.  
+  Estimates constants to validate convergence rates and predict the number of required quadrature nodes.
+
+- `psi_nu_quadrature_comparison.ipynb`  
+  Applies Gauss-Legendre, hp-adaptive Gauss-Legendre, and Gauss-Laguerre quadrature to compute the integral $\psi_\nu$.  
+  Estimates constants to validate convergence behavior, predict node requirements, and compare the practical performance of each method.
+
+
 ---
 
 ## ⚙️ Requirements
