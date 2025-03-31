@@ -42,4 +42,5 @@ Python 3.8+
 Install with:
 
 ```bash
-pip install numpy scipy sympy matplotlib
+pip install numpy scipy sympy matplotlib mpmath
+
